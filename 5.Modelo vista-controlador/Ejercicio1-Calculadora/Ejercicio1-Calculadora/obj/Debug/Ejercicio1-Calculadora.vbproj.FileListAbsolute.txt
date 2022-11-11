@@ -1,0 +1,13 @@
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\bin\Debug\Ejercicio1-Calculadora.exe.config
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\bin\Debug\Ejercicio1-Calculadora.exe
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\bin\Debug\Ejercicio1-Calculadora.pdb
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\bin\Debug\Ejercicio1-Calculadora.xml
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.vbproj.AssemblyReference.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1_Calculadora.Resources.resources
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.vbproj.GenerateResource.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.exe
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.xml
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1-Calculadora.pdb
+C:\Users\Guille\Desktop\practicas.net\ejercicios\5.Modelo vista-controlador\Ejercicio1-Calculadora\Ejercicio1-Calculadora\obj\Debug\Ejercicio1_Calculadora.Form1.resources

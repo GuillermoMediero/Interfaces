@@ -1,0 +1,15 @@
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\bin\Debug\Formulario2.exe.config
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\bin\Debug\Formulario2.exe
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\bin\Debug\Formulario2.pdb
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\bin\Debug\Formulario2.xml
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.vbproj.AssemblyReference.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.Calculadora.resources
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.Resources.resources
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.Volumenes.resources
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.vbproj.GenerateResource.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.vbproj.CoreCompileInputs.cache
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.exe
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.xml
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.pdb
+C:\Users\Guille\Desktop\practicas.net\ejercicios\4.Formularios\Formularios2\Formulario2\Formulario2\obj\Debug\Formulario2.Areas.resources

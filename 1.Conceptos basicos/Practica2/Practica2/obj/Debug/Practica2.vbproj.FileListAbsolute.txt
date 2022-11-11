@@ -1,0 +1,12 @@
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\bin\Debug\Practica2.xml
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.vbproj.AssemblyReference.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.Resources.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.vbproj.GenerateResource.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.vbproj.CoreCompileInputs.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.xml
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\Practica2\Practica2\obj\Debug\Practica2.pdb
